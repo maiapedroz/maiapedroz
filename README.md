@@ -7,11 +7,11 @@
 - [WebCrawler para gerar ePUBs](https://github.com/maiapedroz/html_scraper)
 
 ## Competências
-Linguagens: Python, Java, C, C++, C#, SQL
-Ferramentas e Tecnologias: Git/GitHub, PostgreSQL, Oracle, DuckDNS, Caddy, Jellyfin
-Sistemas Operacionais: Windows e Linux
-Conceitos: Redes, administração de servidores, automação, lógica e pensamento matemático
-Idiomas: Inglês (fluente)
+Linguagens: Python, Java, C, C++, C#, SQL\
+Ferramentas e Tecnologias: Git/GitHub, PostgreSQL, Oracle, DuckDNS, Caddy, Jellyfin\
+Sistemas Operacionais: Windows e Linux\
+Conceitos: Redes, administração de servidores, automação, lógica e pensamento matemático\
+Idiomas: Inglês (fluente)\
 
 
 <!--
